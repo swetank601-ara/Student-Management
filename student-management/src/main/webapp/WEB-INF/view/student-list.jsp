@@ -19,7 +19,7 @@
 
 <div class="container">
 
-<h1 align="center">Selenium Express</h1>
+<h1 align="center">Student List</h1>
 
 <form action="/student-management/showAddStudentPage">
 
